@@ -2,9 +2,9 @@
 ### Download the Project from ArcGIS Online <br>
 <B>How to Download the Project Package</B><br>
 <B>Step 1:</B> Log into your [ArcGIS Online account](https://www.arcgis.com) <br>
-<B>Step 2:</B> Go to "Groups" tab and open the group "Newmarket Lead Service Line Editing"<br>
-<B>Step 3:</B> Scroll to the bottom of the page to the "Recently Added Content" section<br>
+<B>Step 2:</B> Go to "Groups" tab and open the group "Newmarket Lead Service Line Editing". Scroll to the bottom of the page to the "Recently Added Content" section<br>
 <B>Step 4:</B> Download the "LeadServiceLineInventory" project package<br>
+<i>Make sure to click <B>Download</B>, not "Open in ArcGIS Pro"!</i>
 ![image](media/downloadpkg.PNG) <br>
 <B>Step 5:</B> Open the "LeadServiceLineInventory" project package from your download location<br>
 ### Connecting the Portal Item to it's Source
