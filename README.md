@@ -14,3 +14,5 @@ Once you open up the project package, you will see a feature layer in the conten
 <B>Step 1:</B> Double click on the red exclamation point<br>
 <B>Step 2:</B> In the left hand column, under "Portal" double click "My Groups". You should see a feature layer that says "Service Line Editing". Double click on that and you will see one layer called "Service Line". Select that and press "OK".<br>
   Your data source should be connected now! <br>
+  
+<img src="https://github.com/saraneh/LeadServiceLines/blob/main/media/downloadpkg.PNG"  width="600" height="300">  
