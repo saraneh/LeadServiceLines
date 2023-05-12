@@ -1,5 +1,5 @@
 # Editing Lead Service Lines from ArcGIS Pro
-
+###Download the Project from ArcGIS Online
 <details open>
   <summary><B>How to Download the Project Package</B></summary>
   <B>Step 1:</B> Log into your ArcGIS Online account
