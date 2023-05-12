@@ -8,8 +8,7 @@
   ![image](/media/downloadpkg.PNG) <br>
   <B>Step 5:</B> Open the "LeadServiceLineInventory" project package from your download location<br>
 ### Connecting the Portal Item to it's Source
-![image](/media/expoint.PNG) <br>
-Once you open up the project package, you'll see a feature layer in the contents pane called "Service Line." If there's a red exclamation mark next to the "Service Line" layer, that means you have to set the data source for the item.<br>
+Once you open up the project package, you'll see a feature layer in the contents pane called "Service Line." If there's a red exclamation mark ![image](/media/expoint.PNG) next to the "Service Line" layer, that means you have to set the data source for the item.<br>
 
 <B>How to set the data source for the Service Line layer</B><br>
 <B>Step 1:</B> Double click on the red exclamation point<br>
