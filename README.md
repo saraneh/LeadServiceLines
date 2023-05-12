@@ -1,6 +1,5 @@
----
-Editing Lead Service Lines from ArcGIS Pro
----
+#Editing Lead Service Lines from ArcGIS Pro
+
 
 ### Step 1: Log into your [ArcGIS Online account](www.google.com)
 ### Step 2: Go to "Groups" tab and open the group "Newmarket Lead Service Line Editing"
