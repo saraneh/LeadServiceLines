@@ -7,9 +7,9 @@
   <B>Step 3:</B> Scroll to the bottom of the page to the "Recently Added Content" section
   <B>Step 4:</B> Download the "LeadServiceLineInventory" project package<br>
   <B>Step 5:</B> Open the "LeadServiceLineInventory" project package from your download location
-</details>
-## Connecting the Portal Item to it's Source
-Once you open up the project package, you'll see a feature layer in the contents pane called "Service Line." If there's a red exclamation mark next to the "Service Line" layer, that means you have to set the data source for the item.
+</details><br>
+### Connecting the Portal Item to it's Source
+Once you open up the project package, you'll see a feature layer in the contents pane called "Service Line." If there's a red exclamation mark next to the "Service Line" layer, that means you have to set the data source for the item.<br>
 <details open>
   <summary><B>How to set the data source for the Service Line layer</B></summary>
   <B>Step 1:</B> Double click on the red exclamation point<br>
