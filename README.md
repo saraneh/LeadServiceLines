@@ -1,5 +1,5 @@
 # Editing Lead Service Lines from ArcGIS Pro
-### Download the Project from ArcGIS Online
+### Download the Project from ArcGIS Online <br>
 <B>How to Download the Project Package</B><br>
   <B>Step 1:</B> Log into your [ArcGIS Online account](https://www.arcgis.com) <br>
   <B>Step 2:</B> Go to "Groups" tab and open the group "Newmarket Lead Service Line Editing"<br>
