@@ -11,7 +11,10 @@
 Once you open up the project package, you will see a feature layer in the contents pane called "Service Line." If there's a red exclamation mark ❗ next to the "Service Line" layer, that means the source link is broken.<br>
 
 <B>How to set the data source for the Service Line layer</B><br>
-<B>Step 1:</B> Double click on the red exclamation point<br>
-<B>Step 2:</B> In the left hand column, under "Portal" double click "My Groups". You should see a feature layer that says "Service Line Editing". Double click on that and you will see one layer called "Service Line". Select that and press "OK".<br>
-  Your data source should be connected now! <br>
+<B>Step 1:</B> Double click on the red exclamation point ❗<br>
+<B>Step 2:</B> In the left hand column, under "Portal" double click "My Groups". You should see a feature layer that says "Service Line Editing".<br>
+![image](media/serviceline.PNG) <br>
+Double click on that and you will see one layer called "Service Line". Select that and press "OK".<br>
+![image](media/servicelineok.PNG) <br)
+ Your data source should be connected now! <br>
  
